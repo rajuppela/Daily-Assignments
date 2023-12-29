@@ -1,0 +1,5 @@
+Create 10 pages for persons by refering wiki
+
+Provide link of that particukar wiki page on bottom of every web page using href.
+
+use super script, sub script and quotation along with other formatting tags.
